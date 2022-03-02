@@ -10,9 +10,10 @@ Auden:
   Will be responsible for:
     Coding the HTML structure of the application.
     The CSS for the control panel of the pen tool. 
+    Coding the Javascript for the pen tool.
 
 Sumaiya: 
   Will be responsible for:
-    CSS for the canvas 
-    Planning of the Javascript
-   Coding the Javascript for the canvas and the logic for clearing the screen.
+    CSS for the canvas.
+    Planning of the Javascript.
+    Coding the Javascript for the canvas and the logic for clearing the screen.
